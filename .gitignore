@@ -6,9 +6,3 @@
 #Mac
 *.DS_Store
 
-#Unity?MonoDevelop?
-*.svd
-*.user
-*.userprefs
-*.suo
-*.sln
